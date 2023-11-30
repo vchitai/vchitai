@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tai Vong</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">A passionate backend engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vchitai&label=Profile%20views&color=0e75b6&style=flat" alt="vchitai" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chitai.vct@gmail.com**
 
-- 📄 Know about my experiences [https://vchitai.github.io/files/resume3.pdf](https://vchitai.github.io/files/resume3.pdf)
+- 📄 Know about my experiences [My resume](https://vchitai.github.io/files/resume4.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
