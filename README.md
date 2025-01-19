@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vchitai" alt="vchitai" /></a> </p>
 
-- 🔭 I’m currently working on [Geniebook](https://geniebook.com/)
+- 🔭 I’m currently working on [Gearment](https://gearment.com/)
 
 - 👨‍💻 All of my projects are available at [https://vchitai.github.io](https://vchitai.github.io)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chitai.vct@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://vchitai.github.io/files/resume4.pdf)
+- 📄 Know about my experiences [My resume](https://vchitai.github.io/files/resume5.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
