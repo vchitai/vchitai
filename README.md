@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gearment](https://gearment.com/)
 
-- 👨‍💻 All of my projects are available at [https://vchitai.github.io](https://vchitai.github.io)
+- 👨‍💻 All of my projects are available at [https://vchitai.xyz](https://vchitai.xyz)
 
 - 📝 I regularly write articles on [https://vchitai.github.io/posts/](https://vchitai.github.io/posts/)
 
