@@ -47,10 +47,10 @@ func main() {
 
 ### 💼 Quick Links
 
-🌐 **Portfolio:** [vchitai.xyz](https://vchitai.xyz)
-📝 **Blog:** [Technical Writing](https://vchitai.github.io/posts/)
-📄 **Resume:** [View CV](https://vchitai.github.io/files/resume5.pdf)
-💬 **Ask me about:** Go, gRPC, Kubernetes, GCP
+- 🌐 **Portfolio:** [vchitai.github.io](https://vchitai.github.io)
+- 📝 **Blog:** [Technical Writing](https://vchitai.github.io/posts/)
+- 📄 **Resume:** [View CV](https://vchitai.github.io/files/resume5.pdf)
+- 💬 **Ask me about:** Go, gRPC, Kubernetes, GCP
 
 ---
 
